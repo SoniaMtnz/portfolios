@@ -1,0 +1,13 @@
+body {
+    background-color: #7FFF00;
+    background-image: url("comida.jpg");
+    }
+h1 {
+    color: blue,
+    font-family: sans-serif;
+    text-align: center;
+    font-size:500%
+
+   }
+nav {navbar-dark-color: rgba($white, .55);
+}
