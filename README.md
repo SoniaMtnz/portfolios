@@ -12,6 +12,7 @@ Hola! Soy Sonia Martínez, criminóloga especializada en ciberseguridad, anális
 📚 Investigación académica en cibercrimen y regulación
 
 📂 Estructura del repositorio
+
 /sql-injection-tools-comparison
     → Análisis comparativo de herramientas de detección SQLi  
 /forensic-sqli-case
